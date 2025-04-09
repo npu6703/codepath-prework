@@ -1,6 +1,6 @@
 # Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Quinn Nguyen**
 
 **Name of your app** is an app that... [TODO] 
 
@@ -22,8 +22,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 ## Notes
+Favorite apps:
+- Instagram: 
+    able to see other people's stories
+    sharing notes feature
+    different fonts 
+- Tiktok:
+    song's recommendation for picture/video
+    repost the video 
+- Pinterest:
+    search one picture and click on it, it will recommend other similar vibe pictures
+    saved albums with pictures 
 
-Describe any challenges encountered while building the app.
+An app idea: I want to build a Photobooth IOS version that look vintage and aesthetic
 
 ## License
 
