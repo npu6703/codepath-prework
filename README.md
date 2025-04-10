@@ -2,9 +2,15 @@
 
 Submitted by: **Quinn Nguyen**
 
-**Name of your app** is an app that... [TODO] 
+**PhtoBooth Mobile** is an app that like a photobooth of the mac but for fun [TODO: 
+- Open front-facing camera
+- Show live camera preview
+- Take a photo with a button tap
+- Save photo to the photo library
+] 
 
-Time spent: **X** hours spent in total
+
+Time spent: **3** hours spent in total
 
 ## Required Features
 
